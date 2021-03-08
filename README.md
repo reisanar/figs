@@ -1,2 +1,2 @@
 # figs
-some figures
+Some figures used in presentations, lectures, and more
